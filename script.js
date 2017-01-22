@@ -110,7 +110,7 @@ $(document).ready(function() {
 				break;
 
 				default:
-					progression = [["G","maj7"],["B","min7"],["G","maj7"],["B","min7"],["E","min7"],["C","maj7"],["G","maj7"],["D","maj7"]];
+					progression = [["G","maj7"],["B","min7"],["G","maj7"],["B","min7"],["E","min7"],["C","maj7"],["G","maj7"],["D","7"]];
 			}
 
 			return progression;
